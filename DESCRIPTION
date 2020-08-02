@@ -1,0 +1,11 @@
+Package: estatclass
+Type: Package
+Title: Classification statistics and table
+Version: 0.1.0
+Author: Nader Hotait <nhotait@uni-potsdam.de>
+Maintainer: Nader Hotait <nhotait@uni-potsdam.de>
+Description: Similar to Stata's estat classification, this package reports various summary statistics including a classification table. Specificly so for binary outcomes.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+License: MIT
